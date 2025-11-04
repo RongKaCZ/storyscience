@@ -104,6 +104,9 @@ https://github.com/RongKaCZ/storyscience/releases/latest
 If you like this project, you can support the developer through:
 
 <div align="center">
+  <a href="https://paypal.me/RongKa">
+    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_111x69.jpg" width="200" alt="PayPal" />
+  </a>
   <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/wechat.jpg" width="200" alt="WeChat Pay" />
   <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/alipay.jpg" width="200" alt="Alipay" />
 </div>
