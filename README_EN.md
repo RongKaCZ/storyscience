@@ -28,11 +28,38 @@
 ## ✨ Core Features Showcase
 
 <div align="center">
-  <!-- Carousel for feature showcase -->
-  <iframe src="carousel_en.html" width="100%" height="500px" style="border: none; border-radius: 10px;"></iframe>
-  <p style="text-align: center; margin-top: 10px; color: #666;">
-    Use left/right arrows or dots below to switch between feature previews
-  </p>
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/01-writing.png" width="400" alt="Immersive Writing" />
+      <br><b>Immersive Writing</b><br>Real-time word count + AI Co-writing
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/02-graph.png" width="400" alt="Relationship Graph" />
+      <br><b>Relationship Graph</b><br>Drag to visualize character links
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/03-ai.png" width="400" alt="AI Creation" />
+      <br><b>AI Creation</b><br>Auto-generate plots and characters
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/04-outline.png" width="400" alt="Outline View" />
+      <br><b>Outline View</b><br>Structured chapter hierarchy
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/05-world.png" width="400" alt="World Building" />
+      <br><b>World Building</b><br>Geography / History / Culture
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/06-note.png" width="400" alt="Quick Notes" />
+      <br><b>Quick Notes</b><br>Capture inspirations instantly
+    </td>
+  </tr>
+</table>
 </div>
 
 ---

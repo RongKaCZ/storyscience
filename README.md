@@ -28,11 +28,38 @@
 ## ✨ 核心功能预览
 
 <div align="center">
-  <!-- Carousel for feature showcase -->
-  <iframe src="carousel.html" width="100%" height="500px" style="border: none; border-radius: 10px;"></iframe>
-  <p style="text-align: center; margin-top: 10px; color: #666;">
-    使用左右箭头或下方圆点切换功能界面预览
-  </p>
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/zh/01-writing.png" width="400" alt="沉浸式写作" />
+      <br><b>沉浸式写作</b><br>实时字数 + AI 续写
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/zh/02-graph.png" width="400" alt="关系图谱" />
+      <br><b>关系图谱</b><br>拖拽式角色关系
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/zh/03-ai.png" width="400" alt="AI 创作" />
+      <br><b>AI 智能创作</b><br>自动生成剧情/角色
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/zh/04-outline.png" width="400" alt="大纲视图" />
+      <br><b>大纲视图</b><br>层级章节管理
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/zh/05-world.png" width="400" alt="世界观构建" />
+      <br><b>世界观构建</b><br>地理 / 历史 / 文化体系
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/zh/06-note.png" width="400" alt="随手笔记" />
+      <br><b>随手笔记</b><br>快速灵感记录 / 全局同步
+    </td>
+  </tr>
+</table>
 </div>
 
 ## ✨ 核心特性
