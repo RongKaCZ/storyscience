@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Story%20Science%20&fontSize=42&fontAlignY=55&animation=fadeIn&fontColor=fff" alt="Banner" />
-
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Story%20Science&fontSize=42&fontAlignY=55&animation=fadeIn&fontColor=fff&customImage=https://raw.githubusercontent.com/RongKaCZ/storyscience/main/StorySciencePng2.png&customImageWidth=80&customImageHeight=80" alt="StoryScience Banner" />
 
-<img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/StorySciencePng2.png" width="80" alt="StoryScience Logo" />
-#**Story Science Desktop**  
+# 🌌 **Story Science**
 **AI 驱动 · 沉浸式 · 世界级小说创作神器**
 
 [![Stars](https://img.shields.io/github/stars/RongKaCZ/storyscience?style=social)](https://github.com/RongKaCZ/storyscience)
