@@ -79,12 +79,15 @@
 | **中英文双语** | 全球创作者友好 |
 
 ---
-
 ## 📊 项目统计（实时更新）
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=RongKaCZ&repo=storyscience&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RongKaCZ&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" />
+
+<!-- 仓库卡片 -->
+<img height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RongKaCZ&repo=storyscience&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="StoryScience Repo Card" />
+
+<!-- 贡献热力图 -->
+<img height="180" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RongKaCZ&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" alt="RongKaCZ Streak" />
+
 </div>
 
 ---
