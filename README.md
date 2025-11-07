@@ -2,7 +2,8 @@
 
 <div align="center">
 
-# 🌌 **Story Science Desktop**  
+<img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/storyscience.png" width="80" alt="StoryScience Logo" />
+#**Story Science Desktop**  
 **AI 驱动 · 沉浸式 · 世界级小说创作神器**
 
 [![Stars](https://img.shields.io/github/stars/RongKaCZ/storyscience?style=social)](https://github.com/RongKaCZ/storyscience)
