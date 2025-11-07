@@ -6,7 +6,12 @@
 **AI 驱动 · 沉浸式 · 世界级小说创作神器**
 
 [![Stars](https://img.shields.io/github/stars/RongKaCZ/storyscience?style=social)](https://github.com/RongKaCZ/storyscience)
-[![Downloads](https://img.shields.io/github/downloads/RongKaCZ/storyscience/total?color=34D058)](https://github.com/RongKaCZ/storyscience/releases)
+
+| 平台 | 下载 |
+|------|------|
+| Windows | ![Windows](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.0/StoryScienceInstaller.exe?label=Windows&color=0078D6) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.0/StoryScienceInstaller.exe) |
+| Linux   | ![Linux](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.0/StoryScienceInstaller.run?label=Linux&color=34D058) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.0/StoryScienceInstaller.run) |
+
 [![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red)](LICENSE)
 
 **中文** | [English](./README_EN.md)
