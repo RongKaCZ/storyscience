@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/storyscience.png" width="80" alt="StoryScience Logo" />
+<img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/StorySciencePng2.png" width="80" alt="StoryScience Logo" />
 #**Story Science Desktop**  
 **AI 驱动 · 沉浸式 · 世界级小说创作神器**
 
