@@ -1,8 +1,8 @@
+<div align="center">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Story%20Science%20&fontSize=42&fontAlignY=55&animation=fadeIn&fontColor=fff" alt="Banner" />
 
-<div align="center">
-
-# 🌌 **Story Science Desktop**  
+# 🌌 **Story Science**  
 **AI-Powered Immersive Novel Writing Studio**
 
 [![Stars](https://img.shields.io/github/stars/RongKaCZ/storyscience?style=social)](https://github.com/RongKaCZ/storyscience)
