@@ -23,8 +23,23 @@
 ## 🎬 Live Demo
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/demo.gif" width="100%" alt="Demo" />
-  <br><br>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/write.gif" width="90%" alt="AI Co-Writing Demo" />
+        <br><b>✍️ AI Co-Writing</b><br>Smart Writing Assistant
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/graph.gif" width="90%" alt="Relationship Graph Demo" />
+        <br><b>📊 Relationship Graph</b><br>Visual Character Connections
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/optimize.gif" width="90%" alt="Optimization Demo" />
+        <br><b>⚡ Smart Optimization</b><br>Efficient Writing Workflow
+      </td>
+    </tr>
+  </table>
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=AI+Co-Writing+%C2%B7+Relationship+Graph+%C2%B7+Foreshadowing;Write+Smarter%2C+Not+Harder" alt="Typing SVG" />
 </div>
 

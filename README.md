@@ -23,8 +23,23 @@
 ## 🎨 动态演示
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/demo.gif" width="100%" alt="Demo" />
-  <br><br>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/write.gif" width="90%" alt="AI 续写演示" />
+        <br><b>✍️ AI 续写</b><br>智能创作助手
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/graph.gif" width="90%" alt="关系图谱演示" />
+        <br><b>📊 关系图谱</b><br>可视化角色关系
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/optimize.gif" width="90%" alt="优化功能演示" />
+        <br><b>⚡ 智能优化</b><br>高效创作流程
+      </td>
+    </tr>
+  </table>
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=AI+%E7%BB%AD%E5%86%99+%C2%B7+%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1+%C2%B7+%E4%BC%8F%E7%AC%94%E8%BF%BD%E8%B8%AA;Write+Smarter%2C+Not+Harder" alt="Typing SVG" />
 </div>
 
