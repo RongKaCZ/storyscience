@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Story%20Science&fontSize=42&fontAlignY=55&animation=fadeIn&fontColor=fff&customImage=https://raw.githubusercontent.com/RongKaCZ/storyscience/main/StorySciencePng2.png&customImageWidth=80&customImageHeight=80" alt="StoryScience Banner" />
 
 # 🌌 **Story Science**
@@ -106,6 +106,45 @@
 </div>
 
 ---
+
+## 🤖 AI 功能配置
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/zh/AISetting_CN.png" width="800" alt="AI 设置界面" />
+  <br><b>AI 设置界面</b><br>支持多种大模型 API 配置
+</div>
+
+### AI 续写功能
+
+**推荐续写提示词**：
+```
+你是一名专业的网络小说作者，熟悉起点、晋江、番茄等主流网文平台的创作套路与节奏。
+请根据输入的小说片段进行**剧情续写**，要求如下：
+
+1. **延续原文风格与设定**，保持人物性格、世界观、语气一致，不跳戏。
+2. **剧情自然衔接**，承接上文冲突或伏笔，推动情节发展。
+3. **强化爽点与张力**：可以包含逆袭、反杀、系统提示、觉醒、打脸等常见爽点元素。
+4. **丰富细节描写**：加入人物心理、动作、场景与感官刻画，增强代入感与画面感。
+5. **节奏鲜明、语言有冲击力**，避免冗长或空洞的叙述。
+6. **结尾设置悬念或反转**，让读者对后续情节充满期待。
+   最终仅输出续写后的小说正文，不要解释，不要分析，不要输出提示说明。
+```
+
+### AI 润色优化
+
+**推荐润色提示词**：
+```
+你是一名专业的网络小说编辑，熟悉起点、晋江、番茄等网文平台的写作风格。
+请对输入的小说文本进行优化和美化，要求如下：
+1. 保留原剧情和设定，不改变故事走向和核心爽点。
+2. 优化文笔，使语言更加流畅、具有画面感和代入感。
+3. 加强人物描写（外貌、动作、心理），避免平铺直叙。
+4. 增强环境氛围和细节刻画，营造玄幻感和压迫感。
+5. 保持网文常见的节奏与爽点表达（逆袭、打脸、系统奖励等）。
+6. 删除或压缩重复、啰嗦的部分，使行文紧凑有力。
+7. 结尾增加"钩子"，让读者期待后续剧情。
+最终仅输出优化后的小说正文，不要输出任何解释或多余内容。
+```
 
 ## 🛠 技术栈
 
