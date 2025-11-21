@@ -23,6 +23,7 @@
 ## 🎬 Live Demo
 
 <div align="center">
+  <!-- Row 1: Basic Features -->
   <table>
     <tr>
       <td align="center" width="33%">
@@ -39,6 +40,33 @@
       </td>
     </tr>
   </table>
+
+  <br><b>▼ Advanced AI Features ▼</b><br><br>
+
+  <!-- Row 2 & 3: Advanced AI Features (2x2 Layout) -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/AI%20Critic.gif" width="95%" alt="AI Critic" />
+        <br><b>🤖 AI Critic</b><br>Deep Plot Evaluation & Feedback
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/Thinking%20Outline%20.gif" width="95%" alt="Thinking Outline" />
+        <br><b>🧠 Thinking Outline</b><br>Brainstorming & Structured Ideation
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/Partial%20Continuation.gif" width="95%" alt="Partial Continuation" />
+        <br><b>📝 Partial Continuation</b><br>Targeted Extension of Selection
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/Partial%20Polishing.gif" width="95%" alt="Partial Polishing" />
+        <br><b>✨ Partial Polishing</b><br>Text Refinement & Style Upgrade
+      </td>
+    </tr>
+  </table>
+
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=AI+Co-Writing+%C2%B7+Relationship+Graph+%C2%B7+Foreshadowing;Write+Smarter%2C+Not+Harder" alt="Typing SVG" />
 </div>
@@ -86,12 +114,15 @@
 
 ## ✨ Features
 
-- **Multi-View Writing** – Write, Map, Outline, World, Reader Mode  
-- **AI Co-Writer** – Continue, Polish, Generate Characters/Events  
-- **Visual Relationship Graph** – Drag & Connect Story Elements  
-- **Foreshadowing Tracker** – Never lose a plot thread  
-- **Dark/Light Theme** – Eye-friendly for long sessions  
-- **Bilingual UI** – Chinese & English
+| Feature | Description |
+|---------|-------------|
+| **Multi-View Writing** | Write, Map, Outline, World, Reader Mode |
+| **AI Co-Writer** | Continue · Polish · Generate Characters/Events |
+| **AI Auxiliary Tools** | AI Critic · Thinking Outline · Targeted Optimization |
+| **Visual Graph** | Drag & Connect Story Elements |
+| **Foreshadowing** | Tracker Never lose a plot thread |
+| **Dark/Light Theme** | Eye-friendly for long sessions |
+| **Bilingual UI** | Chinese & English Support |
 
 ---
 

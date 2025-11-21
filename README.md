@@ -23,6 +23,7 @@
 ## 🎨 动态演示
 
 <div align="center">
+  <!-- 第一行：基础功能演示 -->
   <table>
     <tr>
       <td align="center" width="33%">
@@ -39,6 +40,33 @@
       </td>
     </tr>
   </table>
+
+  <br><b>▼ 进阶 AI 功能展示 ▼</b><br><br>
+
+  <!-- 第二行/第三行：进阶 AI 功能演示 (2x2 布局) -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/AI%20Critic.gif" width="95%" alt="AI 评论家" />
+        <br><b>🤖 AI 评论家</b><br>深度剧情评估与毒舌建议
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/Thinking%20Outline%20.gif" width="95%" alt="思维大纲" />
+        <br><b>🧠 思维大纲</b><br>灵感发散与结构化构思
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/Partial%20Continuation.gif" width="95%" alt="局部文本续写" />
+        <br><b>📝 局部续写</b><br>选中片段精准定向延展
+      </td>
+      <td align="center" width="50%">
+        <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/gif/Partial%20Polishing.gif" width="95%" alt="局部润色" />
+        <br><b>✨ 局部润色</b><br>字句推敲与文笔升华
+      </td>
+    </tr>
+  </table>
+
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&lines=AI+%E7%BB%AD%E5%86%99+%C2%B7+%E5%85%B3%E7%B3%BB%E5%9B%BE%E8%B0%B1+%C2%B7+%E4%BC%8F%E7%AC%94%E8%BF%BD%E8%B8%AA;Write+Smarter%2C+Not+Harder" alt="Typing SVG" />
 </div>
@@ -88,6 +116,7 @@
 |------|------|
 | **多视图写作** | 写作 / 图谱 / 大纲 / 世界观 / 读者视角 |
 | **AI 智能创作** | 续写 · 润色 · 自动生成角色/事件 |
+| **AI 辅助工具** | 智能评论家 · 思维导图大纲 · 局部定向优化 |
 | **关系图谱** | 拖拽式可视化，复杂关系一目了然 |
 | **伏笔追踪** | 自动高亮线索，防掉线 |
 | **深色/浅色主题** | 一键切换，护眼写作 |
