@@ -20,6 +20,11 @@
 
 ---
 
+**⬇️ API Key Quick Start & AI Configuration Guide 🚀**  
+**[👉 Click here to view the full tutorial](./TUTORIAL_EN.md) 👈**
+
+---
+
 ## 🎬 Live Demo
 
 <div align="center">
