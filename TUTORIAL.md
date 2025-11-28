@@ -1,6 +1,6 @@
 ## 🤖 如何获取主流大语言模型 (LLM) 的 API Key 🔑
 
-**博文地址：** CSDN (或您指定的其他平台)
+**博文地址：*https://blog.csdn.net/m0_73570600/article/details/155344739?spm=1001.2014.3001.5501* CSDN
 
 **摘要：** 本教程将指导您如何获取目前市场上最热门的、可用于开发和集成的各大AI模型的API Key，包括OpenAI、Google Gemini、Anthropic Claude、通义千问、豆包、Kimi、DeepSeek以及聚合平台OpenRouter。
 
