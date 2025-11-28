@@ -1,6 +1,6 @@
 # 🤖 How to Obtain API Keys for Major Large Language Models (LLMs) 🔑
 
-**Blog link:** CSDN (or any platform you prefer)
+**Blog link:*https://blog.csdn.net/m0_73570600/article/details/155344739?spm=1001.2014.3001.5501* CSDN 
 
 **Summary:**
 This guide explains how to obtain API Keys for the most popular large language models (LLMs), including OpenAI, Google Gemini, Anthropic Claude, Qwen, Doubao, Kimi, DeepSeek, and the aggregated platform OpenRouter.
