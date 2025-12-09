@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 统一风格的背景圆环 -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#e0e0e0" stroke-width="8"/>
+  
+  <!-- 能力核心元素 - 盾牌形状表示能力与防护 -->
+  <path d="M100,40 L140,60 L150,100 L140,140 L100,170 L60,140 L50,100 L60,60 Z" 
+        fill="#4285f4" opacity="0.9"/>
+  
+  <!-- 能力象征 - 星形表示卓越与成就 -->
+  <path d="M100,70 L108,95 L135,98 L115,115 L120,140 L100,128 L80,140 L85,115 L65,98 L92,95 Z" 
+        fill="white"/>
+  
+  <!-- 统一风格的装饰元素 -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#fbbc05" stroke-width="2" stroke-dasharray="5,5"/>
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#34a853" stroke-width="2"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 最外层绿色圆环 -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#2E7D32" stroke-width="3"/>
+  
+  <!-- 黄色虚线装饰 -->
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#FFC107" stroke-width="2" stroke-dasharray="4,6"/>
+  
+  <!-- 浅色圆环 -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#E0E0E0" stroke-width="10"/>
+  
+  <!-- 背景圆形 -->
+  <circle cx="100" cy="100" r="70" fill="white" />
+  
+  <!-- 事件核心元素 - 日历与时钟组合 -->
+  <g transform="translate(100, 100)">
+    <!-- 日历主体 -->
+    <rect x="-30" y="-25" width="60" height="50" rx="3" ry="3" fill="#2196f3"/>
+    
+    <!-- 日历顶部 -->
+    <rect x="-30" y="-25" width="60" height="12" rx="3" ry="3" fill="#1565c0"/>
+    
+    <!-- 日历网格线 -->
+    <line x1="-25" y1="5" x2="25" y2="5" stroke="white" stroke-width="1" opacity="0.6"/>
+    <line x1="-25" y1="15" x2="25" y2="15" stroke="white" stroke-width="1" opacity="0.6"/>
+    <line x1="-15" y1="-10" x2="-15" y2="20" stroke="white" stroke-width="1" opacity="0.6"/>
+    <line x1="0" y1="-10" x2="0" y2="20" stroke="white" stroke-width="1" opacity="0.6"/>
+    <line x1="15" y1="-10" x2="15" y2="20" stroke="white" stroke-width="1" opacity="0.6"/>
+    
+    <!-- 日期数字 -->
+    <text x="0" y="10" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="white">15</text>
+    
+    <!-- 时钟 -->
+    <circle cx="0" cy="0" r="12" fill="white" opacity="0.8"/>
+    <line x1="0" y1="0" x2="-5" y2="-8" stroke="#1565c0" stroke-width="2" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="8" y2="-3" stroke="#1565c0" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="2" fill="#1565c0"/>
+  </g>
+</svg>
+    

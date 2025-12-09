@@ -1,0 +1,7 @@
+<!-- Minimal book icon -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 左页 -->
+  <path d="M3 4h7c1.1 0 2 .9 2 2v14c0-1.1-.9-2-2-2H3V4z"/>
+  <!-- 右页 -->
+  <path d="M21 4h-7c-1.1 0-2 .9-2 2v14c0-1.1.9-2 2-2h7V4z"/>
+</svg>

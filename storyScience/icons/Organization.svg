@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 最外层绿色圆环 -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#2E7D32" stroke-width="3"/>
+  
+  <!-- 黄色虚线装饰 -->
+  <circle cx="100" cy="100" r="88" fill="none" stroke="#FFC107" stroke-width="2" stroke-dasharray="4,6"/>
+  
+  <!-- 浅色圆环 -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#E0E0E0" stroke-width="10"/>
+  
+  <!-- 背景圆形 -->
+  <circle cx="100" cy="100" r="70" fill="white" />
+  
+  <!-- 核心元素 - 抽象的团队协作图形 -->
+  <g transform="translate(100, 100)">
+    <!-- 中心圆点 -->
+    <circle cx="0" cy="0" r="8" fill="#1565c0" />
+    
+    <!-- 四个代表成员的形状 -->
+    <path d="M0,-30 L12,-12 L30,0 L12,12 Z" fill="#2196f3" />
+    <path d="M30,0 L12,12 L0,30 L-12,12 Z" fill="#42a5f5" />
+    <path d="M0,30 L-12,12 L-30,0 L-12,-12 Z" fill="#64b5f6" />
+    <path d="M-30,0 L-12,-12 L0,-30 L12,-12 Z" fill="#90caf9" />
+    
+    <!-- 连接线条 - 代表成员间的联系 -->
+    <line x1="0" y1="-20" x2="0" y2="-30" stroke="#1565c0" stroke-width="1.5" />
+    <line x1="20" y1="0" x2="30" y2="0" stroke="#1565c0" stroke-width="1.5" />
+    <line x1="0" y1="20" x2="0" y2="30" stroke="#1565c0" stroke-width="1.5" />
+    <line x1="-20" y1="0" x2="-30" y2="0" stroke="#1565c0" stroke-width="1.5" />
+  </g>
+</svg>
+    

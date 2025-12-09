@@ -1,0 +1,8 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 外环（弱化背景，表示警告范围） -->
+  <circle cx="12" cy="12" r="9" stroke="red" stroke-width="1.5" opacity="0.3"/>
+  <!-- 内环（强调警告焦点） -->
+  <circle cx="12" cy="12" r="5" stroke="red" stroke-width="2"/>
+  <!-- 警告符号：三角形 -->
+  <path d="M12 8L16 14H8L12 8Z" fill="red" />
+</svg>

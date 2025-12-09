@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 圆角文档轮廓 -->
+  <path d="M5 3a1 1 0 0 1 1-1h9l5 5v13a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V3z" />
+  <!-- 文档折角 -->
+  <polyline points="15 2 15 7 20 7" />
+  <!-- 勾选 -->
+  <polyline points="8.5 13.5 11 16 16 11" />
+</svg>

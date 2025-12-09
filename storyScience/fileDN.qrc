@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fileDN/StoryScienceDN_en.json</file>
+        <file>fileDN/StoryScienceDN_zh.json</file>
+    </qresource>
+</RCC>

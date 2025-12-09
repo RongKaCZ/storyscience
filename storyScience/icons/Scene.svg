@@ -1,0 +1,11 @@
+<!-- Minimal scene icon -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 外框，表示一个场景边界 -->
+  <rect x="3" y="5" width="18" height="14" rx="2" ry="2"/>
+  
+  <!-- 地平线/山 -->
+  <path d="M4 15l4-3 4 3 4-4 4 4"/>
+  
+  <!-- 太阳/光源 -->
+  <circle cx="9" cy="9" r="1.5"/>
+</svg>

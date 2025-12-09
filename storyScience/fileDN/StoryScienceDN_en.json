@@ -1,0 +1,184 @@
+{
+
+  "Symbols": [
+	  ".",
+	  "，",
+	  "；",
+	  "：",
+	  "！",
+	  "？",
+	  "、",
+	  "“”",
+	  "‘’",
+	  "「」",
+	  "『』",
+	  "《》",
+	  "（）",
+	  "【】",
+	  "［］",
+	  "〖〗",
+	  "——",
+	  "……",
+	  "～"
+	],  
+    "interjection": [
+        "Ah", "Oh", "Um", "Er", "Hmph", "Ha", "Heh", "Yi (surprise)", "Yo", "Wei (Hello)", "Alas", "Hiss", "Tsk", "Wow", "Ya", "Ma (particle)", "La (particle)", "Lie (particle)", "Lo (particle)", "Na (particle)", "Roar", "Woo", "Aoo", "Hiss—", "Tsk tsk", "Hehe", "Hehe", "Haha", "Heehee", "Hmph hmph", "Wuwu (sobbing)", "Aowu (howl)", "Oh my god", "What the...", "Damn", "Holy...", "Ouch", "Aiya", "Aihei", "Alright", "Okay", "Fine then", "Forget it", "Let it be", "So be it", "Whimper", "Mumble", "Mutter", "Murmur", "Light hum", "Cold snort", "Scoff", "Chuckle", "Low laugh", "Wry smile", "Dry laugh", "Sheepish laugh", "Sinister smile", "Pfft", "Hey", "Aiyowei", "Mm-hmm", "Pfft", "Halt!", "Huo (surprise)", "Let it be", "Wait", "No harm", "Indeed", "Good"
+    ],
+    "action_words": [
+        "Slammed the table and rose", "Flicked sleeves and left", "Sighed at the sky", "Beat chest and stomped feet", "Covered face and wept", "Clenched fists", "Gnashe one's teeth", "Rubbed fists and wiped palms", "Danced for joy", "Tiptoed", "Strode like a meteor", "Walked as if flying", "Walked with a limp", "Stumbled", "Rolled and crawled", "Leapt", "Soared into the air", "Stepped on the air", "Flashed", "Turned into an afterimage", "Teleported and disappeared", "Slowly turned around", "Suddenly looked back", "Shook head gently", "Nodded slightly", "Corners of the mouth turned up", "Curled up a smile", "Grinned", "Gave a sinister smile", "Gave a cold snort", "Scoffed", "Sighed", "Coughed lightly", "Cleared throat", "Rubbed temples", "Pinched the bridge of the nose", "Rubbed hands", "Shrugged hands", "Shrugged shoulders", "Stomped foot", "Kicked leg", "Stretched", "Yawned", "Shivered", "Shuddered", "Sneezed", "Rubbed eyes", "Wiped away sweat", "Wiped away tears", "Licked lips", "Clicked tongue", "Pouted", "Pursed lips", "Beckoned with a finger", "Waved hand", "Beckoned", "Waved hand away", "Clenched fist", "Loosened up muscles and bones", "Moved neck", "Tilted head", "Leaned head", "Lifted chin", "Lowered eyelids", "Raised chin", "Straightened back", "Bowed", "Hunched back", "Bent over", "Squatted down", "Knelt on one knee", "Knelt on both knees", "Prostrated on the ground", "Fell flat on back", "Lay on side", "Sat cross-legged", "Sat hugging knees", "Held head and squatted in defense", "Crossed arms over chest", "Held arms", "Stood with hands behind back", "Stood with hands on hips", "Paced with hands behind back", "Paced back and forth", "Spun in place", "Spun around anxiously", "Jumped in anger", "Grinned from ear to ear", "Scared out of one's wits", "Stunned speechless", "Danced with joy", "Heartbroken", "Furious", "Mouth watered with greed", "Shivered with cold", "Sweated profusely from heat", "Panted from exhaustion", "Eyelids fought to stay open from sleepiness", "Scratched ears and cheeks anxiously", "Panicked and lost one's head", "Pale with fright", "Flushed with anger", "Flushed with shame", "So ashamed one could die", "Laughed until one bent over", "Cried like a pear blossom in the rain", "Cried one's heart out", "Cried one's guts out", "Sucked in a cold breath", "Body trembled", "Staggered back", "Drew sword from sheath", "Frowned slightly", "Tapped with fingertip", "Took a step forward", "Pupils shrank suddenly", "Tiger-like body trembled", "Veins bulged", "Knuckles turned white", "Threw a punch", "Grabbed from a distance", "Stood in mid-air", "Flew in the air", "Flicked a finger", "Swung a horsetail whisk", "Spat out blood", "Body retreated explosively", "Turned into a stream of light", "Collapsed weakly on the ground", "Legs went weak", "Spat out a mouthful of reverse blood", "Breath hitched"
+    ],
+    "eye_expression_words": [
+        "Glanced", "Gave a glare", "Glared angrily", "Autumn waves flowed", "Eyes filled with affection", "Gaze like a torch", "Sharp eyes", "Evasive eyes", "Misty eyes", "Empty eyes", "Vacant eyes", "Sharp eyes", "Gentle eyes", "Icy eyes", "Fiery eyes", "Sad eyes", "Playful eyes", "Mocking eyes", "Disdainful eyes", "Greedy eyes", "Terrified eyes", "Dull eyes", "Cunning eyes", "Fierce eyes", "Soft eyes", "Determined eyes", "Wandering eyes", "Flickering eyes", "Eyes met", "Eyes hiding", "Sneaked a peek", "Scanned", "Gazed", "Stared intently", "Eyes followed", "Dim eyes", "Eyes suddenly brightened", "Eyes sharpened", "Eyes softened", "Eyes hardened", "Eyes trembled", "Eyes shrank", "Eyes narrowed", "Eyes sank", "Eyes turned cold", "Eyes warmed", "Outer corners of eyes lifted", "Corners of eyes filled with tears", "Tears welled up", "Gaze was burning", "Eyes revealed a fierce light", "Stared without blinking", "Rolled one's eyes", "Looked down without speaking", "Looked up", "Smiled back", "Watched coldly from the sidelines", "Gazed affectionately", "Killing intent overflowed", "Full of deep meaning", "Meaningful", "As if lost in thought", "At a loss", "Glanced guiltily", "Gave a provocative glance", "Scanned contemptuously", "Stared greedily", "Gazed infatuatedly", "Eyes shrank in fear", "Narrowed eyes slyly", "Deep eyes", "Clear eyes", "Killing intent flashed", "A light flashed in the eyes", "A brilliant light shone", "Calm as an ancient well", "Killing intent was fully revealed", "Sun and moon sank", "Eyes slightly closed", "Scanned coldly", "Gaze like lightning", "A strange look flashed in the eyes", "Deep in the eyes", "Pupils dilated", "Eyes were about to pop out of their sockets", "Gaze was disdainful", "Anger erupted", "Filled with killing intent"
+    ],
+    "psychological_activity_words": [
+        "A jolt of joy in the heart", "Heart sank", "Heart trembled", "Heart warmed", "Heart soured", "A pang in the heart", "Heart quivered", "Heart moved", "Heart fluttered", "Heart softened", "Heart hardened", "Heart became ruthless", "Heart grew cold", "Heart grew hot", "Heart felt sweet", "Heart felt bitter", "Heart felt astringent", "A block in the heart", "Heart felt empty", "Heart felt insecure", "Heart panicked", "Heart was in turmoil", "Startled", "Greatly shocked", "Heart skipped a beat", "Heart palpitated", "Heart went numb", "Heart itched", "Heart rippled", "Suddenly realized", "Suddenly enlightened", "Burning with anger", "Heart like dead ashes", "Mixed feelings", "Killing intent arose", "Mixed emotions", "A thousand thoughts", "Heart in a mess", "A storm raged in the heart", "Heart dripped blood", "A thought moved", "A flash of inspiration", "Mind was elsewhere", "As if struck by lightning", "Mind was greatly shaken", "Scalp tingled", "A chill ran down the spine", "As calm as an ancient well", "Heart like a clear mirror", "Killing intent boiled", "Thoughts flew", "Thoughts were clear and accessible", "Lingering fear", "Suddenly enlightened", "In disbelief", "A complete blank"
+    ],
+    "environmental_description_words": [
+        "Howling wind", "Lightning and thunder", "Pouring rain", "Drizzling rain", "Gentle wind and rain", "Sunny and beautiful", "Bright sunshine", "Bright moon and sparse stars", "Twinkling stars", "Overcast with dark clouds", "Overcast", "Dark clouds pressing down on the city", "Thick fog", "Light mist", "Misty rain", "White snow", "Covered in silver", "Icy and snowy", "Scorching sun in the sky", "Blazing sun like fire", "Clear autumn sky and crisp air", "Golden wind sends refreshing air", "Falling leaves flutter", "Withered branches and fallen leaves", "Birds singing and flowers fragrant", "Clusters of flowers", "A riot of colors", "Green grass like a carpet", "Towering ancient trees", "Vines entwined", "Strange-shaped rocks", "Flying waterfalls and flowing springs", "Gurgling streams", "Sparkling waves", "Crashing waves against the shore", "Turbulent waves empty the sky", "Calm wind and waves", "Sea and sky are one color", "Myriad rays of rosy clouds", "A thousand auspicious colors", "Purple qi comes from the east", "Auspicious clouds lingered", "Immortal qi fluttered", "Demonic qi was森森", "Ghostly qi was森森", "Yin qi was森森", "Killing qi shot to the sky", "Blood qi filled the air", "Spiritual qi was dense", "Lifeless", "Full of vitality", "Desolate and dilapidated", "Broken walls and ruins", "Setting sun like blood", "Vast twilight", "Deep night", "Dimly lit", "Boiling with noise", "Complete silence", "No sound of crows or sparrows", "Wind sounds and crane cries", "All grass and trees are soldiers", "Killing intent lurks everywhere", "Crisis lurks everywhere", "Undercurrents surge", "Mountain rain is about to come", "Wind and rain are about to come", "Mountains collapse and the earth cracks", "Earth shakes and mountains move", "Heaven collapses and the earth cracks", "Sun and moon have no light", "Stars fall", "Sky and earth are dark", "Ghosts cry and gods howl", "Dragon roars and tiger howls", "Phoenix cries in the nine heavens", "Ten thousand beasts gallop", "A hundred birds pay homage to the phoenix", "A hundred flowers bloom", "A riot of purples and reds", "Forests are dyed in layers", "Green and gold flow", "Water and sky are one color", "Vast misty waves", "Steaming clouds and rosy clouds", "A myriad of phenomena", "Magnificent", "Majestic", "Grand", "Simple and elegant", "Splendid and magnificent", "Carved beams and painted rafters", "Jade towers and palaces", "Pavilions, terraces and towers", "Small bridges and flowing water", "Winding paths lead to secluded places", "Deep courtyard", "Bustling market", "Heavy traffic", "Shoulder to shoulder", "Crowds surge", "Bustling", "Cold and cheerless", "Few visitors", "Desolate and uninhabited", "No trace of human life", "No birds", "Not a blade of grass grows", "A thousand miles of barren land", "Yellow sand fills the sky", "Flying sand and rolling stones", "Gobi Desert", "Frozen for ten thousand miles", "Snow and wind rage", "Water freezes into ice", "Breath turns to frost", "Scorching sun", "Unbearably hot", "Sweating profusely", "Drenched in sweat", "Stiflingly hot", "Autumn wind is bleak", "Cold wind chills to the bone", "North wind howls", "Harsh north wind", "Chilly spring", "Immortal mist lingers", "Spiritual qi is abundant", "Treasure light radiates in all directions", "Corpses lie everywhere", "Rivers of blood flow", "A living hell", "Laws are intertwined", "The Great Dao roars", "A chaotic mess", "The river of stars rolls back", "The void collapses", "The Great Dao is obliterated", "All things wither", "Barren mountains and unruly rivers", "Blessed land and grotto-heaven", "Dragon's pool and tiger's den", "Below the nine serenities", "Thirty-three heavens", "Chaotic qi", "Primordial purple qi"
+    ],
+    "appearance_description_words": [
+        "Sword-like eyebrows and star-like eyes", "Narrow phoenix eyes", "Face like crowned jade", "Handsome appearance", "Handsome and dashing", "Impressive bearing", "Overturns cities and countries", "Peerless beauty", "Makes fish sink and geese fall", "Makes the moon hide and flowers blush", "Hair reaches the waist", "Silver hair like snow", "Black hair flying", "Black hair like a waterfall", "Upright posture", "Sturdy build", "Graceful and charming", "Light and graceful posture", "A white robe", "Brocade clothes and magnificent attire", "Sleeves fluttering", "Clothed in rags", "Imposing manner", "Immortal style and Daoist bones", "Elegant and charming", "Pale face", "Red lips and white teeth", "Fair skin", "Immortal appearance and jade-like beauty", "Extraordinary bearing", "Weak aura", "Shabby clothes", "White hair and youthful face", "Tiger's back and bear's waist", "Delicate features", "As handsome as Pan An", "Peerless elegance", "Does not eat the food of mortals", "Three thousand feet of white hair", "Yellow face and thin muscles", "Walks like a dragon and strides like a tiger", "Abundant qi and blood", "Treasure body glows", "Straight nose and square mouth", "Deep eyes", "Simple and unadorned", "Exquisite and intelligent"
+    ],
+    "sound_words": [
+        "Boom", "Buzz", "Hua (sound of water)", "Sha (sound of sand)", "Pa", "Hiss", "Ga", "Zhi (squeak)", "Bang", "Dong", "Ka", "Cha", "Woof", "Meow", "Moo", "Baa", "Ji (chirp)", "Zha (chirp)", "Gua (croak)", "Gu (coo)", "Jiu (chirp)", "Aoo (howl)", "Roar", "Howl", "Chant", "Neigh", "Roar", "Whimper", "Sob", "Sleep-talking", "Murmur", "Whisper", "Whisper", "Roar", "Scream", "Scream", "Groan", "Gasp", "Heartbeat like a drum", "Footsteps", "Sound of wind", "Sound of rain", "Sound of thunder", "Sound of water", "Sound of fire", "Clash of metal", "Clash of swords", "Fists and feet breaking the air", "Sound of a zither", "Sound of a flute", "Sound of a xiao", "Sound of singing", "Sound of laughter", "Sound of crying", "Sound of talking", "Noise", "Silence", "Complete silence", "No sound of crows or sparrows", "So quiet you can hear a pin drop", "Rumbling", "Crackling", "Clang", "Cicada song", "Wolf howl", "Sound of breaking air", "Sound of explosion", "Buzzing", "Loud noise", "Deafening", "Lingering sound", "Clang", "Rustle", "Sanskrit chanting", "Sound of the Great Dao", "Clanging of weapons and neighing of horses", "Whistle", "Rustle", "Drip", "Decadent music"
+    ],
+    "dialogue_verbs": [
+        "Said", "Said with a cold smile", "Said lightly", "Said in a deep voice", "Shouted angrily", "Exclaimed", "Muttered", "Said via voice transmission", "Explained", "Asked in return", "Said sarcastically", "Roared", "Said word by word", "Said softly", "Said with a loud laugh", "Said sternly", "Said disdainfully", "Said respectfully", "Said cautiously", "Asked tentatively", "Said with emotion", "Threatened", "Questioned", "Said perfunctorily", "Shouted sharply", "Sighed", "Scoffed", "Transmitted voice secretly", "Said with a cold snort", "Said solemnly", "Said hoarsely", "Said meaningfully", "Said noncommittally", "Said in a clear voice", "Said faintly", "Said jokingly"
+    ],
+    "combat_words": [
+        "Sword qi", "Blade light", "Fist wind", "Palm print", "Aura", "Pressure", "Killing intent", "Domain", "Magic treasure", "Divine ability", "Secret technique", "Life-bound magic treasure", "Spiritual power", "Origin qi", "True essence", "Astral qi", "Blasted out", "Slashed down", "Thrust out", "Swept over", "Suppressed", "Imprisoned", "Pierced through", "Annihilated", "Heaven-destroying and earth-shattering", "Earth-shaking", "Void shattered", "Turned to dust", "Soul and spirit destroyed", "One-hit kill", "Man and sword as one", "Blood vessels burst", "Power of laws", "Origin", "Power of bloodline", "Primordial spirit leaves the body", "Body and spirit destroyed", "Body becomes a saint", "Invulnerable to all laws", "Three heads and six arms", "Heaven and earth Dharma aspect", "Fist intent", "Sword intent", "Dao rhyme", "Words become law", "A single thought makes flowers bloom", "Sleeve contains heaven and earth", "Rebirth from a drop of blood", "Eternal and incorruptible", "Swept away all enemies", "Qi冲霄汉", "Cover the sky with a finger", "Stars shift", "Shatter the void"
+    ],
+    "cultivation_terms": [
+        "Qi Refining", "Foundation Building", "Golden Core", "Nascent Soul", "Spirit Transformation", "Void Refining", "Body Integration", "Mahayana", "Tribulation Transcendence", "Spiritual root", "Heart demon", "Heavenly tribulation", "Cave residence", "Elixir", "Spirit stone", "Cultivation technique", "Sect", "Secret realm", "Inheritance", "Possession", "Bottleneck", "Qi deviation", "Breathing exercise", "Meditation", "Secluded cultivation", "Artifact refining", "Pill refining", "Formation", "Talisman", "Ascension", "Plane", "Great thousand world", "Heavenly Dao", "Reincarnation", "Son of fortune", "Karma", "Divine sense", "Dao heart", "Saint", "Emperor realm", "Immortality", "Dao fruit", "Karma (negative)", "Merit", "Three hun and seven po", "Grotto-heaven world", "Small world", "Middle thousand world", "Heaven, earth, black and yellow", "Universe, flood and famine", "Three thousand Great Daos", "Slay the three corpses", "Attain the Dao"
+    ],
+    "character_identity_titles": [
+        "Trash", "Prodigy", "Monster", "Mortal", "Cultivator", "Rogue cultivator", "Demonic head", "Daoist friend", "Senior", "Junior", "Master", "Disciple", "Sect leader", "Elder", "True disciple", "Inner sect disciple", "Outer sect disciple", "Old grandpa (in a ring, etc.)", "Mighty figure", "Giant", "Supreme", "Saint", "Great Emperor", "Demon venerable", "Demon emperor", "Artifact spirit", "Pill master", "Formation master", "Bosom female friend", "Cultivation vessel", "Dao companion", "Dao protector", "Son of destiny", "Person of the tribulation", "Realm master", "Son of the plane", "Tomb keeper", "Ferryman", "Ant", "Beast", "Brat", "Unfilial son", "This humble Daoist", "This seat", "This lonely one (royal)", "We (royal)"
+    ],
+    "item_treasure_names": [
+        "Storage ring", "Storage bag", "Life-bound flying sword", "Divine weapon", "Heavenly material and earthly treasure", "Immortal pill", "Spirit medicine", "Spirit vein", "Cultivation technique jade slip", "Inheritance memory", "Protective jade pendant", "Formation plate", "Dharma robe", "Mount", "Puppet", "Grotto-heaven magic treasure", "Innate spirit treasure", "Acquired supreme treasure", "Incomplete map", "Mysterious iron piece", "Ancient legacy treasure", "Heaven-reaching spirit treasure", "Chaotic supreme treasure", "Emperor weapon", "Saint medicine", "Immortality divine medicine", "World tree", "Bodhi seed", "Yellow spring water", "God-beating whip", "Mountain and river state diagram", "Heaven and earth cauldron", "Zhu Xian sword formation", "Creation jade butterfly", "Teleportation formation", "Sect-protecting great formation"
+    ],
+    "abstract_concepts_tropes": [
+        "Fortune", "Karma", "Reincarnation", "Heavenly Dao", "Law", "Origin", "State of mind", "Comprehension ability", "Innate talent", "Bloodline", "Face-slapping", "Acting weak to prey on the strong", "Defying the heavens to change fate", "Challenging those of a higher level", "Golden finger (cheat/system)", "Opportunity", "Fortuitous encounter", "Epiphany", "Rebirth", "Transmigration", "System", "Annulled engagement trope", "Trash-to-treasure trope", "Invincible trope", "Thirty years east of the river, thirty years west of the river", "Don't bully the young for being poor", "Seize creation", "Attain the Dao", "Attain the Dao through strength", "Dimensional reduction strike", "Causality law", "River of fate", "Protagonist halo", "Long Aotian (arrogant protagonist)", "Seize the fortune of heaven and earth", "Rebelling against the Dao"
+    ],
+    "power_aura_adjectives": [
+        "Unfathomable", "Terrifying to this extent", "Unparalleled domineering", "Sharp edge revealed", "On the verge of death", "Oil has run out and the lamp is dry", "Ancient and vicissitudinous", "Vast as the sea", "Killing intent is awe-inspiring", "Pressure covers the world", "Swallows mountains and rivers", "Returned to the original simplicity", "Ordinary", "Divine light is restrained", "Majestic appearance", "Demonic qi soars to the sky", "Demonic flames cover the sky", "Buddha's light shines everywhere", "Aura is overwhelming", "Boundless magic power", "Divine might is like a prison", "Unmoving as a mountain", "Unparalleled sharpness", "Lifeless", "Full of vitality", "Decisive in killing", "Looks down on the world", "Unprecedented in all ages", "Unprecedented since ancient times", "Only I am supreme", "Qi and blood are withered", "An arrow at the end of its flight"
+    ],
+    "scene_description_words": [
+        "Splendid and magnificent",
+        "Carved beams and painted rafters",
+        "Jade towers and palaces",
+        "Majestic",
+        "Magnificent",
+        "Green bricks and black tiles",
+        "Flying eaves and upturned corners",
+        "Red-lacquered gate",
+        "High walls and large courtyard",
+        "Pavilions and waterside gazebos",
+        "Pavilions, terraces and towers",
+        "Winding paths lead to secluded places",
+        "Heavily guarded",
+        "Solemn and respectful",
+        "Empty house",
+        "Simple thatched cottage",
+        "Shabby and dilapidated",
+        "Broken walls and ruins",
+        "Dragon throne",
+        "Main hall",
+        "Palace",
+        "Immortal palace",
+        "Demon hall",
+        "Imperial city",
+        "Sect gate",
+        "Martial arts field",
+        "Scripture repository pavilion",
+        "Pill refining room",
+        "Artifact refining room",
+        "Spirit field",
+        "Herb garden",
+        "Forbidden land",
+        "Ancestral land",
+        "Meeting hall",
+        "Sect-protecting great formation",
+        "Spirit gathering formation",
+        "Teleportation gate",
+        "Heavy traffic",
+        "Bustling",
+        "Shoulder to shoulder",
+        "Boiling with noise",
+        "Crowded with visitors",
+        "Row upon row of houses",
+        "A myriad of lights",
+        "Streets and alleys crisscross",
+        "Atmosphere of daily life",
+        "Restaurant",
+        "Teahouse",
+        "Marketplace",
+        "Auction house",
+        "Beast fighting arena",
+        "High city walls",
+        "Moat",
+        "Border pass",
+        "Fortress",
+        "Ancient battlefield",
+        "Ruins",
+        "Ruins",
+        "Desolate ancient forbidden land",
+        "Barren land",
+        "Barren mountains and unruly rivers",
+        "Dragon's pool and tiger's den",
+        "Mountain of knives and sea of fire",
+        "Layers of restrictions",
+        "Miasma permeates",
+        "Weird and sinister",
+        "Killing aura",
+        "A dazzling array of goods",
+        "Rare treasures",
+        "Bargaining",
+        "Cries of hawkers rise and fall",
+        "Stall",
+        "Shopkeeper",
+        "Waiter",
+        "Cries of battle shake the heavens",
+        "War drums thunder",
+        "Wolf smoke rises everywhere",
+        "Beacon fires stretch for days",
+        "Banners and flags obscure the sun",
+        "Chaos of war",
+        "Mountain of corpses and sea of blood",
+        "Severed limbs",
+        "Gloomy and bleak",
+        "Grotto-heaven and blessed land",
+        "Peach blossom spring (paradise)",
+        "A world of its own",
+        "Immortal mountain",
+        "Spirit vein",
+        "Abyss",
+        "Secluded valley",
+        "Spirit spring",
+        "Fairyland",
+        "Cliffs and precipices",
+        "Towering mountains",
+        "Endless",
+        "Ten thousand acres of green waves",
+        "Towering ancient trees",
+        "Exotic flowers and rare herbs",
+        "Peaceful and quiet",
+        "Bleak and desolate",
+        "Void space",
+        "Chaotic zone",
+        "Nine serenities purgatory",
+        "Private room",
+        "Arena",
+        "Life and death stage",
+        "Trial ground",
+        "Trial tower",
+        "Dao comprehension cliff",
+        "Dao comprehension stone",
+        "Inheritance ground",
+        "Immortal ascension stage",
+        "Reincarnation well",
+        "Demon-suppressing tower",
+        "Sect grand competition",
+        "Sword qi fills the air"
+    ]
+}

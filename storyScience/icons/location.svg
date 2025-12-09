@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 统一风格的背景圆环 -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#e0e0e0" stroke-width="8"/>
+  
+  <!-- 位置标记主体 - 地图标记形状 -->
+  <path d="M100,50 L135,110 C140,118 140,128 130,135 L100,160 L70,135 C60,128 60,118 65,110 L100,50 Z" 
+        fill="#ea4335" opacity="0.9"/>
+  
+  <!-- 位置中心点 -->
+  <circle cx="100" cy="100" r="15" fill="white"/>
+  <circle cx="100" cy="100" r="8" fill="#ea4335"/>
+  
+  <!-- 统一风格的装饰元素 -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#fbbc05" stroke-width="2" stroke-dasharray="5,5"/>
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#34a853" stroke-width="2"/>
+  
+  <!-- 坐标网格装饰 - 强化位置概念 -->
+  <g stroke="#4285f4" stroke-width="1.5" opacity="0.6">
+    <line x1="70" y1="70" x2="130" y2="70"/>
+    <line x1="70" y1="100" x2="130" y2="100"/>
+    <line x1="70" y1="130" x2="130" y2="130"/>
+    <line x1="70" y1="70" x2="70" y2="130"/>
+    <line x1="100" y1="70" x2="100" y2="130"/>
+    <line x1="130" y1="70" x2="130" y2="130"/>
+  </g>
+</svg>

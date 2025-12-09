@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 外环（弱化背景，表示错误范围） -->
+  <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.5" opacity="0.3"/>
+  <!-- 内环（强调错误焦点） -->
+  <circle cx="12" cy="12" r="5" stroke="currentColor" stroke-width="2"/>
+  <!-- 错误符号：X 形 -->
+  <line x1="10" y1="10" x2="14" y2="14" stroke="currentColor" stroke-width="1.8"/>
+  <line x1="14" y1="10" x2="10" y2="14" stroke="currentColor" stroke-width="1.8"/>
+</svg>
