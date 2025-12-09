@@ -9,14 +9,19 @@
 
 | 平台 | 下载 |
 |------|------|
-| Windows | ![Windows](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.0/StoryScienceInstaller.exe?label=Windows&color=0078D6) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.0/StoryScienceInstaller.exe) |
-| Linux   | ![Linux](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.0/StoryScienceInstaller.run?label=Linux&color=34D058) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.0/StoryScienceInstaller.run) |
+| Windows | ![Windows](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.exe?label=Windows&color=0078D6) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.exe) |
+| Linux   | ![Linux](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.run?label=Linux&color=34D058) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.run) |
 
 [![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red)](LICENSE)
 
 **中文** | [English](./README_EN.md)
 
 </div>
+
+---
+
+**⬇️ APIKEY 快速入门 & AI 配置教程 🚀**
+**[👉 点击这里查看完整使用教程](./TUTORIAL.md) 👈**
 
 ---
 

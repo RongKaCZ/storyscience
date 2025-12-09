@@ -9,14 +9,19 @@
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | ![Windows](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.0/StoryScienceInstaller.exe?label=Windows&color=0078D6) [Download](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.0/StoryScienceInstaller.exe) |
-| **Linux**   | ![Linux](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.0/StoryScienceInstaller.run?label=Linux&color=34D058) [Download](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.0/StoryScienceInstaller.run) |
+| **Windows** | ![Windows](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.exe?label=Windows&color=0078D6) [Download](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.exe) |
+| **Linux**   | ![Linux](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.run?label=Linux&color=34D058) [Download](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.run) |
 
 [![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red)](LICENSE)
 
 [中文](./README.md) | **English**
 
 </div>
+
+---
+
+**⬇️ API Key Quick Start & AI Configuration Guide 🚀**  
+**[👉 Click here to view the full tutorial](./TUTORIAL_EN.md) 👈**
 
 ---
 
