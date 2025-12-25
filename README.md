@@ -7,10 +7,23 @@
 
 [![Stars](https://img.shields.io/github/stars/RongKaCZ/storyscience?style=social)](https://github.com/RongKaCZ/storyscience)
 
-| 平台 | 下载 |
-|------|------|
-| Windows | ![Windows](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.exe?label=Windows&color=0078D6) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.exe) |
-| Linux   | ![Linux](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.run?label=Linux&color=34D058) [下载](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.run) |
+## 📦 StoryScience 下载中心
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/RongKaCZ/storyscience/total?label=Total%20Downloads&color=informational" alt="Total Downloads">
+  <img src="https://img.shields.io/github/v/release/RongKaCZ/storyscience?label=Latest%20Version&color=success" alt="Latest Version">
+</p>
+
+---
+
+### 💻 平台下载
+
+| 平台          | 下载                                                                                                                                                                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows** | <img src="https://img.shields.io/github/downloads/RongKaCZ/storyscience/latest/StoryScienceInstaller.exe?label=Windows&color=0078D6" />  [点击下载](https://github.com/RongKaCZ/storyscience/releases/latest/download/StoryScienceInstaller.exe) |
+| **Linux**   | <img src="https://img.shields.io/github/downloads/RongKaCZ/storyscience/latest/StoryScienceInstaller.run?label=Linux&color=34D058" />  [点击下载](https://github.com/RongKaCZ/storyscience/releases/latest/download/StoryScienceInstaller.run)   |
+
+---
 
 [![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red)](LICENSE)
 
