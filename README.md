@@ -33,6 +33,11 @@
 
 ---
 
+### ⬇️ QQ 群（欢迎交流与反馈改进意见，请文明交流）
+
+<img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/qq.png" width="220" alt="QQ群二维码" />
+
+
 **⬇️ APIKEY 快速入门 & AI 配置教程 🚀**
 **[👉 点击这里查看完整使用教程](./TUTORIAL.md) 👈**
 
