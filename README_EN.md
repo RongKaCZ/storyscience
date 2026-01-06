@@ -1,16 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Story%20Science%20&fontSize=42&fontAlignY=55&animation=fadeIn&fontColor=fff" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Story%20Science&fontSize=42&fontAlignY=55&animation=fadeIn&fontColor=fff&customImage=https://raw.githubusercontent.com/RongKaCZ/storyscience/main/StorySciencePng2.png&customImageWidth=80&customImageHeight=80" alt="StoryScience Banner" />
 
-# 🌌 **Story Science**  
-**AI-Powered Immersive Novel Writing Studio**
+# 🌌 **Story Science**
+**AI-Powered · Immersive · World-Class Novel Creation Tool**
 
 [![Stars](https://img.shields.io/github/stars/RongKaCZ/storyscience?style=social)](https://github.com/RongKaCZ/storyscience)
 
-| Platform | Download |
-|----------|----------|
-| **Windows** | ![Windows](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.exe?label=Windows&color=0078D6) [Download](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.exe) |
-| **Linux**   | ![Linux](https://img.shields.io/github/downloads/RongKaCZ/storyscience/v1.0.1/StoryScienceInstaller.run?label=Linux&color=34D058) [Download](https://github.com/RongKaCZ/storyscience/releases/download/v1.0.1/StoryScienceInstaller.run) |
+## 📦 StoryScience Download Center
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/RongKaCZ/storyscience/total?label=Total%20Downloads&color=informational" alt="Total Downloads">
+  <img src="https://img.shields.io/github/v/release/RongKaCZ/storyscience?label=Latest%20Version&color=success" alt="Latest Version">
+</p>
+
+---
+
+### 💻 Platform Downloads
+
+| Platform    | Download                                                                                                                                                                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Windows** | <img src="https://img.shields.io/github/downloads/RongKaCZ/storyscience/latest/StoryScienceInstaller_EN.exe?label=Windows&color=0078D6" />  [Direct Download](https://github.com/RongKaCZ/storyscience/releases/latest/download/StoryScienceInstaller_EN.exe) |
+| **Linux**   | <img src="https://img.shields.io/github/downloads/RongKaCZ/storyscience/latest/StoryScienceInstaller_EN.run?label=Linux&color=34D058" />  [Direct Download](https://github.com/RongKaCZ/storyscience/releases/latest/download/StoryScienceInstaller_EN.run)   |
+
+---
 
 [![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red)](LICENSE)
 
@@ -20,12 +33,12 @@
 
 ---
 
-**⬇️ API Key Quick Start & AI Configuration Guide 🚀**  
+**⬇️ APIKEY Quick Start & AI Configuration Guide 🚀**
 **[👉 Click here to view the full tutorial](./TUTORIAL_EN.md) 👈**
 
 ---
 
-## 🎬 Live Demo
+## 🎨 Dynamic Demo
 
 <div align="center">
   <!-- Row 1: Basic Features -->
@@ -78,7 +91,7 @@
 
 ---
 
-## ✨ Core Features Showcase
+## ✨ Core Features Preview
 
 <div align="center">
   <table>
@@ -89,17 +102,17 @@
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/02-graph.png" width="400" alt="Relationship Graph" />
-      <br><b>Relationship Graph</b><br>Drag to visualize character links
+      <br><b>Relationship Graph</b><br>Drag & Drop Character Links
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/03-ai.png" width="400" alt="AI Creation" />
-      <br><b>AI Creation</b><br>Auto-generate plots and characters
+      <br><b>AI Intelligent Creation</b><br>Auto-generate Plots & Characters
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/04-outline.png" width="400" alt="Outline View" />
-      <br><b>Outline View</b><br>Structured chapter hierarchy
+      <br><b>Outline View</b><br>Hierarchical Chapter Management
     </td>
   </tr>
   <tr>
@@ -109,33 +122,34 @@
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/RongKaCZ/storyscience/main/assets/en/06-note.png" width="400" alt="Quick Notes" />
-      <br><b>Quick Notes</b><br>Capture inspirations instantly
+      <br><b>Quick Notes</b><br>Instant Inspiration Recording / Sync
     </td>
   </tr>
 </table>
 </div>
 
----
-
-## ✨ Features
+## ✨ Key Characteristics
 
 | Feature | Description |
 |---------|-------------|
-| **Multi-View Writing** | Write, Map, Outline, World, Reader Mode |
-| **AI Co-Writer** | Continue · Polish · Generate Characters/Events |
+| **Multi-View Writing** | Write / Graph / Outline / World / Reader Mode |
+| **AI Intelligent Creation** | Continue · Polish · Auto-generate Characters/Events |
 | **AI Auxiliary Tools** | AI Critic · Thinking Outline · Targeted Optimization |
-| **Visual Graph** | Drag & Connect Story Elements |
-| **Foreshadowing** | Tracker Never lose a plot thread |
-| **Dark/Light Theme** | Eye-friendly for long sessions |
-| **Bilingual UI** | Chinese & English Support |
+| **Relationship Graph** | Visual drag-and-drop, complex relationships at a glance |
+| **Foreshadowing Tracker** | Auto-highlight clues, never lose a thread |
+| **Dark/Light Theme** | One-click switch, eye-friendly writing |
+| **Bilingual Support** | Friendly for creators worldwide |
 
 ---
-
-## 📊 GitHub Stats
-
+## 📊 Project Stats (Live Update)
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=RongKaCZ&repo=storyscience&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RongKaCZ&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" />
+
+<!-- Repo Card -->
+<img height="180" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=RongKaCZ&repo=storyscience&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="StoryScience Repo Card" />
+
+<!-- Streak Stats -->
+<img height="180" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=RongKaCZ&theme=radical&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" alt="RongKaCZ Streak" />
+
 </div>
 
 ---
@@ -187,11 +201,14 @@ Output only the optimized novel text without any explanations or additional cont
 
 ---
 
-## 🚀 Get Started
+## 🚀 Quick Start
 
 ```bash
-# Download for Windows 10/11 (64-bit)
+# Download the latest installer (Windows 10/11 64-bit)
 https://github.com/RongKaCZ/storyscience/releases/latest
+
+# Run
+Double-click StoryScienceDesktop.exe
 ```
 
 ## 💖 Support the Project
